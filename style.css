@@ -167,4 +167,12 @@ div#text-btn-banner #btn-account{
     padding: 2rem 11rem 0 0;
 }
 
+.changeColor{
+  background-color:  aquamarine !important;
+}
+
+.invisible{
+  opacity: 0;
+}
+
 
